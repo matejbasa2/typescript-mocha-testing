@@ -28,6 +28,7 @@ Q&A
 - Open ended question
 
     Q: How would you approach to code reviews if you’re responsible for a quality of code?\
-    A: - I would like to review fever lines of code at a time in order to not be overwhelmed and so I can effectively find defects,\
-       - I would like to see some annotations in the code to guide the reviewer (Can become overwhelming if overused.),\
-       - Have a positive code review culture (embracing possible implications of others and the fact that you do write better code if you know other are going to take a look at it)
+    A: I would approach it by:\
+       - reviewing fever lines of code at a time in order to not be overwhelmed and so I can effectively find defects,\
+       - encouraging the use of annotations in the code to guide the reviewer (Can become overwhelming if overused.),\
+       - having a positive code review culture (embracing possible implications of others and the fact that you do write better code if you know your peers are going to take a look at it)
