@@ -1,7 +1,11 @@
 # typescript-mocha-testing
 Adacta Job Entrance Exam
 
-Q&A
+## Running the project:
+
+1. run 'code'
+
+## Q&A
 
 ---
 
