@@ -4,10 +4,10 @@ Adacta Job Entrance Exam
 ## Running the project:
 
 1. run `npm install`
-2. use the project:
-    `npm run build` to build the project
-    `npm run start` to run the project
-    `npm run test` to run project tests
+2. use the project:\
+    - `npm run build` to build the project\
+    - `npm run start` to run the project\
+    - `npm run test` to run project tests\
 
 ## Q&A
 
