@@ -1,5 +1,5 @@
 # typescript-mocha-testing
-Adacta Job Entrance Exam
+Job Entrance Exam
 
 ## Running the project:
 
